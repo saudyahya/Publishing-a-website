@@ -1,0 +1,17 @@
+/*Saud M. Yahya_SA138_Y10-3*/
+
+table        { width: 600px;
+				margin-left:auto;
+				margin-right:auto }
+				
+h1				{color:#000080; 
+				 font-family: Chalkduster, verdana, sans-serif;
+				 font-size:30pt;
+				 text-align: center }
+				
+h2,h3,li		{font-family: Arial,sans-serif}
+
+h2,li			{font-size:16pt}
+
+h3				{font-size:14pt;
+				 font-style:italic}

@@ -1,0 +1,13 @@
+table	position	centre aligned within the browser window
+	size	600 pixels wide
+h1 	Colour: 	Blue 80, Red 0, Green 0
+	Font: 	Chalkduster, but if not available then Verdana, or if these fonts are not available, the browser’s default sans-serif font
+		30 points high
+		Alignment centre
+h2 	Font: 	Arial or if this font is not available, the browser’s default sans-serif font
+		16 points high
+h3 	Font: 	Arial or if this font is not available, the browser’s default sans-serif font
+		14 points high
+		Italicised
+List style	Font: 	Arial or if this font is not available, the browser’s default sans-serif font
+		16 points high

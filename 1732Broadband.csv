@@ -1,0 +1,62 @@
+Code,PCode,Provider,Region,Download,Upload
+EN1,F,,Eastern,43.88,16.61
+EN2,V,,Eastern,97.06,8.51
+EN3,B,,North East,49.9,7.98
+EN4,S,,North East,61.7,11.84
+EN5,X,,North East,60.3,9.56
+EN6,V,,North East,161.75,22.35
+EN7,K,,North East,57.55,9.51
+EN8,P,,North East,82.85,16.07
+EN9,AB,,North East,39.2,5.84
+EN10,E,,North East,50.55,8.11
+EN11,A,,North East,61.5,10.3
+EN12,T,,North East,30.2,4.54
+EN13,O,,North East,69,13.3
+EN14,C,,North East,43.8,6.26
+EN15,Q,,North East,41.95,5.89
+EN16,L,,North East,56.3,8.76
+EN17,U,,North East,23.7,4.74
+EN18,B,,Midlands,45.8,9.16
+EN19,S,,Midlands,56.7,10.84
+EN20,X,,Midlands,50.4,9.58
+EN21,V,,Midlands,143.15,18.63
+EN22,P,,Midlands,59.75,9.45
+EN23,AB,,Midlands,33,4.1
+EN24,E,,Midlands,57.2,9.94
+EN25,A,,Midlands,66.7,12.84
+EN26,T,,Midlands,72.7,12.04
+EN27,O,,Midlands,81.2,14.24
+EN28,U,,Midlands,63.05,11.11
+EN29,Z,,Midlands,82.3,15.46
+EN30,B,,SouthWest,56.25,9.75
+EN31,S,,SouthWest,57.05,8.91
+EN32,X,,SouthWest,61.8,11.36
+EN33,V,,SouthWest,149.95,19.99
+EN34,P,,SouthWest,39,7.8
+EN35,AB,,SouthWest,32.95,6.09
+EN36,E,,SouthWest,56.55,8.81
+EN37,A,,SouthWest,35.15,5.03
+EN38,T,,SouthWest,35.35,5.57
+EN39,G,,SouthWest,39.1,5.82
+WA1,B,,South Wales,33.1,5.62
+WA3,X,,South Wales,21.3,2.26
+WA4,V,,South Wales,51.7,8.34
+WA6,P,,South Wales,11.5,1.3
+WA7,AB,,South Wales,29.45,4.89
+WA8,E,,South Wales,27.25,3.45
+WA9,A,,South Wales,16.8,1.86
+WA10,T,,South Wales,24.35,3.87
+WA11,O,,South Wales,33.25,5.15
+WA16,Z,,South Wales,1.45,-0.21
+FR1,O,,Brittany,48.55,9.21
+FR2,M,,Brittany,83.35,15.17
+FR3,Y,,Brittany,43,6.6
+FR4,N,,Brittany,97.65,18.03
+FR5,W,,Brittany,68.1,11.12
+BE1,AA,,Ghent,77,13.9
+BE2,H,,Ghent,82.55,15.01
+BE3,R,,Ghent,45.8,8.66
+BE4,AC,,Ghent,41.25,5.75
+BE5,J,,Ghent,138.65,17.73
+BE6,I,,Ghent,69.75,11.95
+BE7,D,,Ghent,67.4,10.98
